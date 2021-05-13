@@ -1,4 +1,5 @@
 # Hi there 👋
+Meu nome é Rafael Mendes sou estudante de Engenharia de Sistemas na Universidade Federal de Minas Gerais.
 
 <!--
 **mendesrafael2/mendesrafael2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
