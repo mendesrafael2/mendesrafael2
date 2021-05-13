@@ -1,7 +1,7 @@
 # Hi there 👋
 Meu nome é Rafael Mendes sou estudante de Engenharia de Sistemas na Universidade Federal de Minas Gerais.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/www.linkedin.com/in/rafael-mendes-aa2452a3/) 
 
 
 
